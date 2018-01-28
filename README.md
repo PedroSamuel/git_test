@@ -1,5 +1,4 @@
-This is PedroBSilva first Git Project.
-Cookies are Good. Chocolate is Better.
+This is PedroSamuel first Git Project.
 
 
 
